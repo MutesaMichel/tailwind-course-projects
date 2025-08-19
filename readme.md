@@ -1,4 +1,8 @@
-# Tailwind From Scratch Course Projects
+#
+<img width="612" height="408" alt="Bl" src="https://github.com/user-attachments/assets/cb5e42d7-9128-4df6-beb0-8f343e0383f7" />
+
+
+Tailwind From Scratch Course Projects
 
 This is the main repository for all of the projects in the course
 
